@@ -6,7 +6,7 @@ void foo() {
 }
 
 void bar() {
-    
+    cout << "It’s bar!!" << endl;
 }
  
 int main() {
