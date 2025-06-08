@@ -6,12 +6,13 @@ void foo() {
 }
 
 void bar() {
-    
+    cout << "It’s bar!!" << endl;
 }
  
 int main() {
     cout << "Hello, World!" << endl;
-    return 0;
-} foo();
+
+    bar();
+    foo();
     return 0;
 }
